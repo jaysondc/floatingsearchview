@@ -993,7 +993,7 @@ public class FloatingSearchView extends FrameLayout {
      * Shows a circular progress on top of the
      * menu action button.
      * <p/>
-     * Call hidProgress()
+     * Call hideProgress()
      * to change back to normal and make the menu
      * action visible.
      */
